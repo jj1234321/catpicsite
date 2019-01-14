@@ -1,0 +1,23 @@
+body {
+    text-align: center;
+    background-color: #8284f0;
+}
+
+h1 {
+    color:rgb(251, 209, 181);
+}
+
+div {
+    margin-top: 15px;
+}
+
+.image-section {
+    display: flex;
+    justify-content: center;
+}
+
+.section-style{
+    margin-right: 25px;
+    margin-left: 25px;
+    background-color: rgb(251, 209, 181);
+}
